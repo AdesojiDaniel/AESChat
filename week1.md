@@ -76,5 +76,3 @@ Workflow for this week:
 
 
 
-
-once that’s solid, move on to phase 2 (AES encryption) and reshuffle roles
