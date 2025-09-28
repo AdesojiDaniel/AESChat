@@ -1,7 +1,8 @@
-## Run the server / client. 
-```bash
+# AESChat
+
+## Run the server  
 python -m app.server
-# in another terminal
+## Run client in another terminal
 python -m app.client# AESChat
 
 
