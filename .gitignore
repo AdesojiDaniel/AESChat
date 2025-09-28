@@ -6,8 +6,8 @@ __pycache__/
 
 
 # Add venv file names here to avoid committing them. 
-./AESCHATVenv/
-./venv
+AESCHATVenv/
+venv/
 
 # distribution / packaging
 build/
