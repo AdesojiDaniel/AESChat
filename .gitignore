@@ -1,0 +1,32 @@
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+# Add venv file names here to avoid committing them. 
+./AESCHATVenv/
+./venv
+
+# distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+
+# editor / ide junk
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# os-specific junk
+.DS_Store
+Thumbs.db
+
+# test / coverage outputs
+.coverage
+htmlcov/
+.pytest_cache/
